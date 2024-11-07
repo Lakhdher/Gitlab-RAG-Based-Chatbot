@@ -1,3 +1,6 @@
 /Data
 .env
 persisted_embeddings
+persisted_embeddings_2
+figures
+generated_content

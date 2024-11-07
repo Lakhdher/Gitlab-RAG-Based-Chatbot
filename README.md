@@ -1,6 +1,6 @@
 ### Context:
 
-GitLab is struggling with information overload. Their internal documentation, spread across various wikis, Confluence pages, and Google Docs, has become difficult for employees to navigate. They've approached Lucid Labs to create an AI-powered chatbot that can quickly answer employees' questions based on this documentation.
+GitLab is struggling with information overload. Their internal documentation, spread across various wikis, Confluence pages, and Google Docs, has become difficult for employees to navigate. They've approached you to create an AI-powered chatbot that can quickly answer employees' questions based on this documentation.
 
 ## Model Choices
 
